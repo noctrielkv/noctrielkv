@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  
+  <!-- GIF No estilo Eggman/Sombrio -->
+  <img src="https://giphy.com" width="200">
 
-<!--
-**noctrielkv/noctrielkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # ⚙️ SYSTEM OVERRIDE
+  
+  *usuário de ia baetinha mongado.*
+  
+  `[C++]` `[IA]` `[MEMES]`
+  
+  ---
 
-Here are some ideas to get you started:
+  ### 🤖 Status do Sistema
+  - 🖥️ Criando soluções, mas o código é puro suco de caos.
+  - 🧠 IA faz 90% do trabalho, os outros 10% é o compilador reclamando.
+  - 🛠️ Atualmente tentando não explodir o kernel com C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Badges com estilo sombrio -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+
+</div>
